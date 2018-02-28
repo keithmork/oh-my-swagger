@@ -1,0 +1,13 @@
+.idea/
+.git/
+.DS_Store
+
+test/
+coverage/
+node_modules/
+
+*.log
+json/*
+
+!.keep
+!.gitkeep
